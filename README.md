@@ -36,5 +36,5 @@ return arr.findIndex(item => item[property] === value);
    [{"Name": "John","Instrument": "Guitar"},{"Name": "Paul","Instrument": "Bass"},{"Name": "Ringo","Instrument": "Drums"},{"Name": "George","Instrument": "Guitar"}]
    ```
    2. Property: The name of the property to locate (e.g. Name)
-   3. Value: The value the property to remove (e.g. Paul)
+   3. Value: The value the property to locate (e.g. Paul)
 3. Result: The script returns the index of the first object that matches
